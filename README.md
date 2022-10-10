@@ -41,3 +41,8 @@ You can add `javascript` scripts, see below
 
 - [`:has` selector](https://developer.mozilla.org/en-US/docs/Web/CSS/:has)
 - [modding Vivaldi](https://forum.vivaldi.net/topic/10549/modding-vivaldi/)
+
+
+## Donations
+
+[paypal.me/trigger166](https://www.paypal.com/paypalme/trigger166)
